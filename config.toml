@@ -5,5 +5,4 @@ theme = "hugo-shopping-product-catalogue-simple"
 themesDir = "./themes"
 [Params]
 description = ""
-GTMTAGID="GoogleAnalytics"
-gtm = "GTM-KVRS8GJ3"
+GTMTAGID="GTM-KVRS8GJ3"
