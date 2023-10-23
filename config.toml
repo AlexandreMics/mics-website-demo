@@ -6,3 +6,4 @@ themesDir = "./themes"
 [Params]
 description = ""
 GTMTAGID="GoogleAnalytics"
+gtm = "GTM-KVRS8GJ3"
